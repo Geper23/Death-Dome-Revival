@@ -1,0 +1,15 @@
+# Keep original game binaries and proprietary assets out of version control
+*.apk
+*.xapk
+*.obb
+*.aab
+*.zip
+*.keystore
+*.jks
+*.p12
+*.log
+*.logcat
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
